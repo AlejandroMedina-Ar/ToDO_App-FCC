@@ -12,6 +12,9 @@ function App() {
         <h1>Mis Tareas</h1>
         <ListaDeTareas />
       </div>
+
+    <div className='dev_Persona' >Desarrollado por Alejandro Medina | 2023 </div>
+
     </div>
   
   );

@@ -25,6 +25,7 @@ h1 {
 
 .aplicacion-tareas {
 	display: flex;
+	flex-direction: column;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
@@ -56,6 +57,14 @@ h1 {
 	margin: 10px;
 	justify-content: center;
 	border-radius: 26px;
-
-
 }
+
+.dev_Persona {
+    padding-top: 15px;
+    color: rgb(255, 246, 5);
+    font-family: Lato, sans-serif;
+}
+
+
+
+	
